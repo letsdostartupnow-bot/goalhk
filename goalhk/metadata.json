@@ -1,0 +1,8 @@
+{
+  "name": "GOALHK - 萬事屋",
+  "description": "Your AI-powered universal solution platform. Find help for anything, anytime.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
